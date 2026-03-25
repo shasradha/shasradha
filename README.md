@@ -115,10 +115,10 @@
 
 ---
 
-## 🏆 Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shasradha&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shasradha&bg_color=0d1117&color=00f5ff&line=7b2fff&point=ffffff&area=true&area_color=7b2fff&hide_border=true&radius=8" />
 </div>
 
 ---
