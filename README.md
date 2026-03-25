@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f5ff,100:7b2fff&height=200&section=header&text=Shasradha%20Karmakar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligence%20from%20Silicon%20to%20Software&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=15-y%2Fo+CTO+%40+Team+INNOVENTIX+%F0%9F%9A%80;Cybersecurity+Researcher+%7C+Top+1%25+TryHackMe+%F0%9F%94%90;Hardware+Hacker+%7C+ESP32+%2F+Arduino+%2F+RPi+%E2%9A%A1;Bug+Bounty+Hunter+%40+HackerOne+%F0%9F%90%9B;Building+robots%2C+OSes+%26+ecosystems+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Cybersecurity+Researcher+%7C+Top+1%25+TryHackMe+%F0%9F%94%90;Hardware+Hacker+%7C+ESP32+%2F+Arduino+%2F+RPi+%E2%9A%A1;Bug+Bounty+Hunter+%40+HackerOne+%F0%9F%90%9B;Student+Builder+%7C+Class+IX+%7C+Asansol+%F0%9F%87%AE%F0%9F%87%B3;Building+robots%2C+OSes+%26+ecosystems+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,6 @@
 
   Name    : Shasradha Karmakar (yuvi)
   Age     : 15
-  Role    : CTO & EEE @ Team INNOVENTIX
   School  : S.N. Memorial School, Asansol (CBSE Class IX)
   Location: West Bengal, India 🇮🇳
   Focus   : Cybersecurity · Hardware · AI/ML · Robotics
