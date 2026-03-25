@@ -118,7 +118,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=shasradha&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shasradha&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
@@ -158,14 +158,18 @@
 
 <div align="center">
 
+---
+
+## 💬 Quote of the Day
+
+<img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+---
+
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/shasradha/shasradha/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f5ff,100:0d1117&height=120&section=footer&text=One%20System.%20Infinite%20Execution.&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
